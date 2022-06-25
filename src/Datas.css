@@ -1,0 +1,26 @@
+body {
+    background-color: #a8deff;
+}
+
+h3 {
+    font-family: 'Roboto', 'Arial', 'Segoe UI', sans-serif;
+    font-size: 2vw;
+}
+
+.tableData {
+    width: 100%;
+    overflow-x: auto;
+    font-family: 'Roboto', 'Arial', 'Segoe UI', sans-serif;
+    font-size: 1vw;
+    border-collapse: collapse;
+    border: 1px solid grey;
+}
+
+td {
+   border: 1px solid grey;
+}
+
+thead {
+    font-size: 1vw;
+    font-weight: bold;
+}
